@@ -1,6 +1,6 @@
 # Installation
 ```
-nimble install https://github.com/tim-st/nim-lzma
+nimble install https://github.com/GrimStride/nim-lzma
 ```
 
 # Usage
